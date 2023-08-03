@@ -1,6 +1,8 @@
 # retro-pi-console
 Design documentation and project artifacts for a raspberry pi console emulator for retro video games. 
 
+## System Model (SysML Diagram)
+
 ![The System Model of the Console](system-model.png)
 
 ## Abstract
@@ -14,3 +16,10 @@ In this README I will detail how I planned and executed the project.
 ### Research Phase
 
 I was able to find plenty of web pages detailing how to make such a RaspPi console. 
+
+My first Google search led me to this [PCWorld Article](https://www.pcworld.com/article/406449/how-to-build-a-raspberry-pi-retrogaming-emulation-console.html) which detailed the hardware I needed. In general, the parts list is pretty obvious. I have included a .CSV file on my parts list in this directory. 
+
+```
+retro-pi-console/Retro-Pi-Parts.csv
+```
+
