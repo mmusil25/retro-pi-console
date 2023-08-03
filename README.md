@@ -11,6 +11,12 @@ It has always been a goal of mine to build the classic Raspberry Pi console emul
 
 In this README I will detail how I planned and executed the project. 
 
+## SysML Diagrams
+
+Below are some of the key diagrams that represent the objects discussed throughout both the hardware and software sections of this report.
+
+### Raspberry Pi detailed model
+
 ## Timeline
 
 ### Research Phase
@@ -23,3 +29,18 @@ My first Google search led me to this [PCWorld Article](https://www.pcworld.com/
 retro-pi-console/Retro-Pi-Parts.csv
 ```
 
+After doing some further reading I found that there are several competing platforms. The one that the PCWorld Article uses is called RetroPie. But there is also another project called RecalBox. 
+
+
+
+
+
+
+Below, I've added a table comparing these two software platforms and what they offer. 
+
+
+
+
+|     Feature     |       RetroPie       |       RecalBox    |
+| --------------- | -------------------- | ----------------- |
+| Number of Consoles | 
