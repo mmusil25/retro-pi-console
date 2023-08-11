@@ -3,6 +3,9 @@ Design documentation and project artifacts for a raspberry pi console emulator f
 
 ##Results
 
+
+![The System Model of the Console](system-model.png)
+
 Here's a link to a [YouTube Video of Cave Story](https://youtu.be/Z5ow7Hn4VNo) starting up. 
 
 
