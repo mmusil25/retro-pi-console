@@ -31,7 +31,7 @@ In this README I will detail how I planned and executed the project.
 
 ## Assembly
 
-![SD-card-imager](./pics/SD-card-imager.jpg)
+![SD-card-imager](./pics/SD-card-imager.png)
 
 ![Flash](./pics/Flash.jpg)
 
