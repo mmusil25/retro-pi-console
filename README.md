@@ -23,7 +23,7 @@ It has always been a goal of mine to build the classic Raspberry Pi console emul
 retro-pi-console/Retro-Pi-Parts.csv
 ```
 
-After doing some further reading I found that there are several competing platforms. The one that the PCWorld Article uses is called RetroPi. But there is also another project called RecalBox. However when the parts arrived and I tried to run standard RetroPi it couldn't handle it so I found a Lakka which is a [lightweight version of RetroPi]([url](https://www.lakka.tv/get/windows/rpi/)https://www.lakka.tv/get/windows/rpi/). And this one ran well. 
+After doing some further reading I found that there are several competing platforms. The one that the PCWorld Article uses is called RetroPi. But there is also another project called RecalBox. However when the parts arrived and I tried to run standard RetroPi it couldn't handle it so I found a Lakka which is a [lightweight version of RetroPi](https://www.lakka.tv/get/windows/rpi/). And this one ran well. 
 
 ## Parts
 ![Controllers, HDMI, and USB splitt](./pics/ctrl-hdmi-usb4.jpg)
