@@ -11,9 +11,15 @@ It has always been a goal of mine to build the classic Raspberry Pi console emul
 
 In this README I will detail how I planned and executed the project. 
 
-## SysML Diagrams
+## Parts
+![Controllers, HDMI, and USB splitt](ctrl-hdmi-usb4.jpg)
 
-Below are some of the key diagrams that represent the objects discussed throughout both the hardware and software sections of this report.
+
+![case-charger-keyboard](case-charger-keyboard.jpg)
+
+
+![case-charger-keyboard](case-charger-keyboard.jpg)
+
 
 ### Raspberry Pi detailed model
 
