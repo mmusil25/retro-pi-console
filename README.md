@@ -1,4 +1,7 @@
+Check out my full [portfolio](https://www.markmusil.com/engineering).
+
 # retro-pi-console
+
 Design documentation and project artifacts for a raspberry pi console emulator for retro video games. 
 
 ## Results
