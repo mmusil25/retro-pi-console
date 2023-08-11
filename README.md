@@ -3,7 +3,12 @@ Design documentation and project artifacts for a raspberry pi console emulator f
 
 ##Results
 
+
+![The System Model of the Console](system-model.png)
+
 Here's a link to a [YouTube Video of Cave Story](https://youtu.be/Z5ow7Hn4VNo) starting up. 
+
+
 
 ## System Model (SysML Diagram)
 
@@ -27,7 +32,7 @@ In this README I will detail how I planned and executed the project.
 
 ### Raspberry Pi detailed model
 
-## Timeline
+# Timeline
 
 ### Research Phase
 
@@ -39,18 +44,8 @@ My first Google search led me to this [PCWorld Article](https://www.pcworld.com/
 retro-pi-console/Retro-Pi-Parts.csv
 ```
 
-After doing some further reading I found that there are several competing platforms. The one that the PCWorld Article uses is called RetroPie. But there is also another project called RecalBox. 
+After doing some further reading I found that there are several competing platforms. The one that the PCWorld Article uses is called RetroPi. But there is also another project called RecalBox. However when the parts arrived and I tried to run standard RetroPi it couldn't handle it so I found a Lakka which is a [lightweight version of RetroPi]([url](https://www.lakka.tv/get/windows/rpi/)https://www.lakka.tv/get/windows/rpi/). And this one ran well. 
 
+### Software Install
 
-
-
-
-
-Below, I've added a table comparing these two software platforms and what they offer. 
-
-
-
-
-|     Feature     |       RetroPie       |       RecalBox    |
-| --------------- | -------------------- | ----------------- |
-| Number of Consoles | 
+All you need 
