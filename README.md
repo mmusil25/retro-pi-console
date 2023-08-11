@@ -4,7 +4,7 @@ Design documentation and project artifacts for a raspberry pi console emulator f
 ##Results
 
 
-![The System Model of the Console](system-model.png)
+![The Lakka Interface on the Home TV](./pics/Result.jpg)
 
 Here's a link to a [YouTube Video of Cave Story](https://youtu.be/Z5ow7Hn4VNo) starting up. 
 
@@ -12,7 +12,7 @@ Here's a link to a [YouTube Video of Cave Story](https://youtu.be/Z5ow7Hn4VNo) s
 
 ## System Model (SysML Diagram)
 
-![The System Model of the Console](system-model.png)
+![The System Model of the Console](./pics/system-model.png)
 
 ## Abstract
 
@@ -21,14 +21,23 @@ It has always been a goal of mine to build the classic Raspberry Pi console emul
 In this README I will detail how I planned and executed the project. 
 
 ## Parts
-![Controllers, HDMI, and USB splitt](ctrl-hdmi-usb4.jpg)
+![Controllers, HDMI, and USB splitt](./pics/ctrl-hdmi-usb4.jpg)
 
 
-![case-charger-keyboard](case-charger-keyboard.jpg)
+![raspi4-usbSticks](./pics/raspi4-usbSticks.jpg)
 
 
-![case-charger-keyboard](case-charger-keyboard.jpg)
+![case-charger-keyboard](./pics/case-charger-keyboard.jpg)
 
+## Assembly
+
+![SD-card-imager](./pics/SD-card-imager.jpg)
+
+![Flash](./pics/Flash.jpg)
+
+![openCase](./pics/openCase.jpg)
+
+![Light](./pics/Light.jpg)
 
 ### Raspberry Pi detailed model
 
